@@ -1,3 +1,5 @@
+ntgcalls==0.9.7
+pillow==x.x.x
 aiofiles
 aiohttp
 asyncio
