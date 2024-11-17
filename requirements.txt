@@ -9,7 +9,6 @@ heroku3
 lyricsgenius
 motor
 psutil
-py-tgcalls==2.0.6
 pykeyboard
 pyrogram==1.4.16
 python-dotenv
